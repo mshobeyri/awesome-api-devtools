@@ -218,6 +218,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 
 ### Desktop
+- [Multimeter](https://github.com/mshobeyri/multimeter): Git-native REST client and API testing for VS Code/Cursor (YAML `.mmt` files, `testlight` CLI, MCP `mmt-mcp`).
 - [Postman](https://www.getpostman.com): Desktop API testing tool.
 - [Firecamp](https://firecamp.app): API Studio for WebSocket, Rest API and GraphQL.
 - [HTTPie](https://httpie.org/): Command line HTTP client.
